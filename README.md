@@ -5,7 +5,7 @@ Welcome to my coding world! This is a collection of all my projects, organized b
 ---
 
 ## 💰 Finance & Utilities
-- 💸 [Expense Tracker](https://github.com/Jd-Coder1029/Expense-Tracker.git)
+- 💸 [Expense Tracker](https://github.com/JD-Coder0129/Expense-Tracker.git)
 
 ## 🧠 AI & Machine Learning
 - 🤖 [AI-Assistant-Plugin-System](https://github.com/JD-Coder0129/AI-Assistant-Plugin-System.git)
