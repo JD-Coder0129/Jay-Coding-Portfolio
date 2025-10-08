@@ -9,7 +9,6 @@ Welcome to my coding world! This is a collection of all my projects, organized b
 
 ## 🧠 AI & Machine Learning
 - 🤖 [AI-Assistant-Plugin-System](https://github.com/JD-Coder0129/AI-Assistant-Plugin-System.git)
----
 
 ## 📨 Notification System – Inheritance & Polymorphism (OOP Project)
 - ✨ [Notification-System](https://github.com/JD-Coder0129/Notification-System.git)
