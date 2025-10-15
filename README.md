@@ -16,6 +16,9 @@ Welcome to my coding world! This is a collection of all my projects, organized b
 ## 🧠 AI Memory System
 - 🤖 [AI Memory System](https://github.com/JD-Coder0129/AI-Memory-System.git)
 
+## 🧠 AI Plugin Engine(v1)
+- 🤖 [AI Plugin Engine(v1)](https://github.com/JD-Coder0129/AI-Plugin-Engine.git)
+
 ## 📨 Notification System
 - ✨ [Notification-System](https://github.com/JD-Coder0129/Notification-System.git)
 ---
