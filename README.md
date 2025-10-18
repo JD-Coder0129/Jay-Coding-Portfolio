@@ -7,17 +7,16 @@ Welcome to my coding world! This is a collection of all my projects, organized b
 ## 💰 Finance & Utilities
 - 💸 [Expense Tracker](https://github.com/JD-Coder0129/Expense-Tracker.git)
 
-## 🧠 AI & Machine Learning
+## 🧠 AI Projects
 - 🤖 [AI-Assistant-Plugin-System](https://github.com/JD-Coder0129/AI-Assistant-Plugin-System.git)
 
-## 🧠 AI Task Scheduler
 - 🤖 [AI Task Scheduler](https://github.com/JD-Coder0129/AI-Task-Scheduler.git)
 
-## 🧠 AI Memory System
 - 🤖 [AI Memory System](https://github.com/JD-Coder0129/AI-Memory-System.git)
 
-## 🧠 AI Plugin Engine(v1)
 - 🤖 [AI Plugin Engine(v1)](https://github.com/JD-Coder0129/AI-Plugin-Engine.git)
+
+- 🤖 [Jarvis AI — Sensor Data Analyzer v2.0](https://github.com/JD-Coder0129/Jarvis-AI-Sensor-Data-Analyzer-v2.0.git)
 
 ## 📨 Notification System
 - ✨ [Notification-System](https://github.com/JD-Coder0129/Notification-System.git)
