@@ -18,9 +18,12 @@ Welcome to my coding world! This is a collection of all my projects, organized b
 
 - 🤖 [Jarvis AI — Sensor Data Analyzer v2.0](https://github.com/JD-Coder0129/Jarvis-AI-Sensor-Data-Analyzer-v2.0.git)
 
+## 💥Master Porject
+- 🤖 [Jarvis AI Diagnostic Core v3.0 ](https://github.com/JD-Coder0129/ai_diagnostics_core.git)
+
 ## 📨 Notification System
 - ✨ [Notification-System](https://github.com/JD-Coder0129/Notification-System.git)
 ---
 
 ⭐ **Connect with me**  
-GitHub: [@JD-Coder0129](https://github.com/yourusername)  
+GitHub: [@JD-Coder0129](https://github.com/JD-Coder0129)  
