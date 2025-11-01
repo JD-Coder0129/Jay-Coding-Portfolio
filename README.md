@@ -16,10 +16,12 @@ Welcome to my coding world! This is a collection of all my projects, organized b
 
 - 🤖 [AI Plugin Engine(v1)](https://github.com/JD-Coder0129/AI-Plugin-Engine.git)
 
-- 🤖 [Jarvis AI — Sensor Data Analyzer v2.0](https://github.com/JD-Coder0129/Jarvis-AI-Sensor-Data-Analyzer-v2.0.git)
+- 🤖 [AI — Sensor Data Analyzer v2.0](https://github.com/JD-Coder0129/Jarvis-AI-Sensor-Data-Analyzer-v2.0.git)
 
 ## 💥Master Porject
 - 🤖 [Jarvis AI Diagnostic Core v3.0 ](https://github.com/JD-Coder0129/ai_diagnostics_core.git)
+
+- 🤖 [Jarvis AI Core v1.0 ](https://github.com/JD-Coder0129/Jarvis_AI_Core_v1.git)
 
 ## 📨 Notification System
 - ✨ [Notification-System](https://github.com/JD-Coder0129/Notification-System.git)
