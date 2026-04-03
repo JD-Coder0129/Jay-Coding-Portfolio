@@ -33,37 +33,7 @@ Currently deep into: **FastAPI backends · AI system architecture · Crypto & fi
 
 ## 🌟 Featured Projects
 
-> The best of what I've built — production-ready, well-documented, and battle-tested.
-
----
-
-### 🪙 **Crypto Price API** *(New — Just Shipped!)*
-> *A blazing-fast REST API to track, store, and query cryptocurrency prices in real time.*
-
-A **FastAPI + SQLite** backend built from scratch with full CRUD operations, Pydantic data validation, and auto-generated Swagger documentation. Clean, minimal, and production-ready.
-
-**🔧 Tech Stack:** `Python 3.11+` · `FastAPI` · `SQLite3` · `Pydantic v2` · `Uvicorn`
-
-**✨ What It Does:**
-- ➕ **POST `/add`** — Store a coin + price (validated, auto-lowercased)
-- 📋 **GET `/all`** — Retrieve every coin in the database
-- 🔍 **GET `/get?coin=`** — Query a specific coin by name
-- 🗑️ **DELETE `/delete/{coin}`** — Remove a coin permanently
-- 📄 **Auto Swagger Docs** at `/docs` — zero-setup API testing
-
-**🛡️ Validation Engine:**
-```
-Coin Name → Letters only · Min 2 chars · Auto-lowercased
-Price     → Must be positive float (> 0)
-```
-
-**🔮 Coming Soon:** Price history · Live CoinGecko sync · Auth layer · Docker support
-
-🔗 [View Repository](https://github.com/JD-Coder0129/crypto-api) | [API Docs](#)
-
----
-
-### 🤖 **Jarvis API Explorer** *(Featured)*
+### 🤖 **Jarvis API Explorer** *(Latest - Featured)*
 > *Professional-grade multi-API data aggregator with intelligent reporting*
 
 A sophisticated CLI application that seamlessly integrates multiple REST APIs to deliver real-time information with AI-powered insights.
