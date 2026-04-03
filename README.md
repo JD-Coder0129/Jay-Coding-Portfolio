@@ -1,274 +1,184 @@
-# 🚀 Jay's Development Portfolio
-
-[![GitHub followers](https://img.shields.io/github/followers/JD-Coder0129?style=social)](https://github.com/JD-Coder0129)
-[![Profile Views](https://komarev.com/ghpvc/?username=JD-Coder0129&color=brightgreen)](https://github.com/JD-Coder0129)
-[![Total Stars](https://img.shields.io/github/stars/JD-Coder0129?style=social)](https://github.com/JD-Coder0129?tab=repositories)
-
-> *Building intelligent systems, API integrations, and automation tools with Python*
-
-Welcome to my professional development portfolio! I specialize in AI-powered applications, REST API integrations, data aggregation systems, and intelligent automation. Each project demonstrates clean code architecture, modular design principles, and real-world problem-solving capabilities.
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 **Jarvis API Explorer** *(Latest - Featured)*
-> *Professional-grade multi-API data aggregator with intelligent reporting*
-
-A sophisticated command-line application that seamlessly integrates multiple REST APIs to deliver real-time information. Features weather updates, GitHub analytics, tech news headlines, and automated report generation with AI-powered insights.
-
-**🔧 Tech Stack:** Python 3.8+, REST APIs, JSON Processing, Modular Architecture  
-**✨ Key Features:**
-- **Multi-API Integration:** OpenWeather, GitHub, NewsAPI
-- **Smart Report Generation:** Automated JSON reports with timestamps
-- **Intelligent Summaries:** Context-aware insights and recommendations
-- **Data Persistence:** Organized storage with historical tracking
-- **Professional CLI:** Clean interface with comprehensive error handling
-- **Modular Design:** Separation of concerns, reusable components
-
-**📊 Capabilities:**
-- 🌦️ Real-time weather data with detailed metrics
-- 👤 GitHub profile analytics and statistics
-- 📰 Multi-country tech news aggregation
-- 📈 Automated report generation and storage
-- 💡 AI-powered data analysis and insights
-
-🔗 [View Repository](https://github.com/JD-Coder0129/jarvis-api-explorer) | [Full Documentation](https://github.com/JD-Coder0129/jarvis-api-explorer#readme)
-
----
-
-### 💻 **AI API Fusion System**
-> *Real-time information hub with intelligent memory management*
-
-Command-line interface that unifies multiple APIs for seamless information delivery. Includes weather data, cryptocurrency prices, motivational quotes, and global news with persistent memory logging.
-
-**🔧 Tech Stack:** Python, REST APIs, JSON Storage  
-**✨ Key Features:**
-- Multi-API orchestration (OpenWeather, CoinGecko, NewsAPI, Quotable)
-- Persistent memory system with JSON-based storage
-- Modular architecture with independent API modules
-- Comprehensive error handling and fallback mechanisms
-- Clean command interface with emoji-enhanced output
-
-**📦 Architecture:**
-- `ai_api_core_fixed.py` - Main orchestration engine
-- `weather_api_fixed.py` - Weather data integration
-- `crypto_api_fixed.py` - Cryptocurrency price tracking
-- `news_api_fixed.py` - News headlines aggregator
-- `quotes_api_fixed.py` - Motivational quote generator
-
-🔗 [View Repository](#) | [Documentation](#)
-
----
-
-## 🤖 AI & Intelligent Systems
-
-### **Master Projects**
-
-#### **Jarvis AI Diagnostic Core v3.0**
-Advanced AI diagnostic system with multi-layer analysis capabilities
-- Real-time system diagnostics and monitoring
-- Intelligent error detection and resolution
-- Performance optimization recommendations
-- 🔗 [Repository](https://github.com/JD-Coder0129/ai_diagnostics_core.git)
-
-#### **Jarvis AI Core v1.0**
-Foundation framework for AI-powered automation and task execution
-- Core AI processing engine
-- Plugin architecture support
-- Extensible command system
-- 🔗 [Repository](https://github.com/JD-Coder0129/Jarvis_AI_Core_v1.git)
-
----
-
-### **AI Development Suite**
-
-#### **AI Assistant Plugin System**
-Extensible plugin architecture enabling modular AI functionality
-- Dynamic plugin loading and management
-- Hot-reload capabilities
-- Plugin dependency resolution
-- 🔗 [Repository](https://github.com/JD-Coder0129/AI-Assistant-Plugin-System.git)
-
-#### **AI Task Scheduler**
-Intelligent scheduling system with priority-based task management
-- Automated task prioritization
-- Conflict resolution algorithms
-- Resource optimization
-- 🔗 [Repository](https://github.com/JD-Coder0129/AI-Task-Scheduler.git)
-
-#### **AI Memory System**
-Persistent memory framework for context-aware AI applications
-- Long-term memory storage
-- Context retrieval mechanisms
-- Memory optimization algorithms
-- 🔗 [Repository](https://github.com/JD-Coder0129/AI-Memory-System.git)
-
-#### **AI Plugin Engine v1**
-Dynamic plugin execution framework with sandboxed environment
-- Secure plugin execution
-- Resource management
-- Performance monitoring
-- 🔗 [Repository](https://github.com/JD-Coder0129/AI-Plugin-Engine.git)
-
-#### **AI Sensor Data Analyzer v2.0**
-Real-time sensor data processing with pattern recognition
-- Multi-sensor data fusion
-- Anomaly detection
-- Predictive analytics
-- 🔗 [Repository](https://github.com/JD-Coder0129/Jarvis-AI-Sensor-Data-Analyzer-v2.0.git)
-
----
-
-## 💼 Utilities & Business Tools
-
-### **Expense Tracker**
-Comprehensive financial management system for expense tracking and budgeting
-- Transaction categorization
-- Budget monitoring
-- Financial reporting
-- 🔗 [Repository](https://github.com/JD-Coder0129/Expense-Tracker.git)
-
-### **Notification System**
-Multi-channel notification delivery platform with priority handling
-- Email/SMS integration
-- Priority-based queuing
-- Delivery confirmation
-- 🔗 [Repository](https://github.com/JD-Coder0129/Notification-System.git)
-
----
-
-## 💻 Technical Expertise
-
-```python
-developer_profile = {
-    "languages": {
-        "primary": ["Python"],
-        "familiar": ["JavaScript", "SQL"]
-    },
-    "specializations": [
-        "REST API Integration & Development",
-        "AI/ML System Architecture",
-        "Data Aggregation & Processing",
-        "Automation & Task Scheduling",
-        "Modular Software Design",
-        "CLI Application Development"
-    ],
-    "frameworks_libraries": [
-        "Requests (HTTP/REST)",
-        "JSON Processing",
-        "Error Handling Patterns",
-        "Async Programming"
-    ],
-    "api_experience": {
-        "weather": ["OpenWeatherMap"],
-        "finance": ["CoinGecko"],
-        "news": ["NewsAPI"],
-        "quotes": ["Quotable", "ZenQuotes"],
-        "developer": ["GitHub API"]
-    },
-    "design_patterns": [
-        "Modular Architecture",
-        "Separation of Concerns",
-        "Error-First Design",
-        "Config-Driven Development",
-        "Plugin Systems"
-    ],
-    "best_practices": [
-        "Clean Code Principles",
-        "Comprehensive Documentation",
-        "Error Resilience",
-        "Security-First Approach",
-        "Test-Driven Development"
-    ]
-}
-```
-
----
-
-## 🏗️ Architecture Philosophy
-
-### Core Principles
-
-**🎯 Modular Design**
-- Reusable, independent components
-- Clear separation of concerns
-- Easy to maintain and extend
-
-**🛡️ Error Resilience**
-- Comprehensive error handling
-- Graceful degradation
-- Fallback mechanisms
-
-**📊 Data-Driven**
-- JSON-based configuration
-- Persistent storage systems
-- Structured data flow
-
-**🔒 Security First**
-- Secure API key management
-- Input validation
-- Safe error messages
-
-**📖 Documentation Excellence**
-- Detailed README files
-- Code comments and docstrings
-- Usage examples and demos
-
----
-
-## 📈 Project Metrics
-
 <div align="center">
 
-| Category | Count | Description |
-|----------|-------|-------------|
-| 🤖 **AI Projects** | 8+ | Machine learning and intelligent systems |
-| 🌐 **API Integrations** | 5+ | External service integrations |
-| 📦 **Modules Developed** | 15+ | Reusable software components |
-| 🏆 **Featured Projects** | 2 | Production-ready applications |
-| ⭐ **Total Stars** | Growing | Community engagement |
+```
+     ██╗██████╗        ██████╗ ██████╗ ██████╗ ███████╗██████╗
+     ██║██╔══██╗      ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+     ██║██║  ██║█████╗██║     ██║   ██║██║  ██║█████╗  ██████╔╝
+██   ██║██║  ██║╚════╝██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗
+╚█████╔╝██████╔╝      ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║
+ ╚════╝ ╚═════╝        ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
+
+### 🧠 AI Systems · REST APIs · Backend Engineering · Intelligent Automation
+
+[![GitHub followers](https://img.shields.io/github/followers/JD-Coder0129?style=social)](https://github.com/JD-Coder0129)
+[![Profile Views](https://komarev.com/ghpvc/?username=JD-Coder0129&color=brightgreen&style=flat-square)](https://github.com/JD-Coder0129)
+[![Total Stars](https://img.shields.io/github/stars/JD-Coder0129?style=social)](https://github.com/JD-Coder0129?tab=repositories)
+
+> *"Building intelligent systems, API integrations, and automation tools — one commit at a time."*
 
 </div>
 
 ---
 
-## 🎓 Skills Demonstrated
+## 👋 Who Am I?
 
-### ✅ **Professional Development**
-- Production-grade code quality
-- Industry-standard practices
-- Scalable architecture design
-- Performance optimization
+Hey there! I'm **JD** — a developer obsessed with building things that are clean, intelligent, and actually useful.
 
-### ✅ **API Mastery**
-- RESTful API consumption
-- Multiple API orchestration
-- Rate limiting and caching
-- Authentication strategies
+I specialize in **AI-powered systems**, **REST API development & integration**, **backend engineering**, and **intelligent automation**. Every project I ship follows one rule: *it has to solve a real problem, beautifully.*
 
-### ✅ **System Design**
-- Modular architecture patterns
-- Plugin-based systems
-- Data persistence layers
-- Report generation systems
-
-### ✅ **Problem Solving**
-- Real-world application development
-- Error handling strategies
-- Performance optimization
-- User experience design
+Currently deep into: **FastAPI backends · AI system architecture · Crypto & financial data systems · Multi-API orchestration**
 
 ---
 
-## 🔥 Recent Highlights
+## 🌟 Featured Projects
 
-- 🚀 **Latest Release:** Jarvis API Explorer with multi-API integration
-- 🛠️ Built 8+ AI-focused projects demonstrating ML capabilities
-- 📊 Implemented professional-grade report generation systems
-- 🌐 Integrated 5+ different REST APIs across projects
-- 💡 Developed intelligent summary and analysis features
-- 📚 Created comprehensive documentation for all projects
+> The best of what I've built — production-ready, well-documented, and battle-tested.
+
+---
+
+### 🪙 **Crypto Price API** *(New — Just Shipped!)*
+> *A blazing-fast REST API to track, store, and query cryptocurrency prices in real time.*
+
+A **FastAPI + SQLite** backend built from scratch with full CRUD operations, Pydantic data validation, and auto-generated Swagger documentation. Clean, minimal, and production-ready.
+
+**🔧 Tech Stack:** `Python 3.11+` · `FastAPI` · `SQLite3` · `Pydantic v2` · `Uvicorn`
+
+**✨ What It Does:**
+- ➕ **POST `/add`** — Store a coin + price (validated, auto-lowercased)
+- 📋 **GET `/all`** — Retrieve every coin in the database
+- 🔍 **GET `/get?coin=`** — Query a specific coin by name
+- 🗑️ **DELETE `/delete/{coin}`** — Remove a coin permanently
+- 📄 **Auto Swagger Docs** at `/docs` — zero-setup API testing
+
+**🛡️ Validation Engine:**
+```
+Coin Name → Letters only · Min 2 chars · Auto-lowercased
+Price     → Must be positive float (> 0)
+```
+
+**🔮 Coming Soon:** Price history · Live CoinGecko sync · Auth layer · Docker support
+
+🔗 [View Repository](https://github.com/JD-Coder0129/Smart-Crypto-API.git) | [API Docs](#)
+
+---
+
+### 🤖 **Jarvis API Explorer** *(Featured)*
+> *Professional-grade multi-API data aggregator with intelligent reporting*
+
+A sophisticated CLI application that seamlessly integrates multiple REST APIs to deliver real-time information with AI-powered insights.
+
+**🔧 Tech Stack:** `Python 3.8+` · `REST APIs` · `JSON Processing` · `Modular Architecture`
+
+**✨ Key Features:**
+- 🌦️ **Real-time weather data** — OpenWeatherMap integration
+- 👤 **GitHub analytics** — Profile stats, repo metrics
+- 📰 **Tech news** — Multi-country headlines via NewsAPI
+- 📈 **Automated JSON reports** with timestamps & history
+- 💡 **AI-powered summaries** — Context-aware insights
+
+🔗 [View Repository](https://github.com/JD-Coder0129/jarvis-api-explorer) | [Documentation](https://github.com/JD-Coder0129/jarvis-api-explorer#readme)
+
+---
+
+### ⚡ **AI API Fusion System**
+> *Real-time information hub with intelligent memory management*
+
+A unified CLI that orchestrates 4 APIs simultaneously — weather, crypto prices, motivational quotes, and global news — with a persistent JSON-based memory engine.
+
+**🔧 Tech Stack:** `Python` · `CoinGecko API` · `OpenWeather` · `NewsAPI` · `Quotable`
+
+**📦 Architecture:**
+```
+ai_api_core_fixed.py    →  Main orchestration engine
+crypto_api_fixed.py     →  Cryptocurrency price tracking  ← Powers the Crypto API above!
+weather_api_fixed.py    →  Weather data integration
+news_api_fixed.py       →  News headlines aggregator
+quotes_api_fixed.py     →  Motivational quote generator
+```
+
+🔗 [View Repository](#) | [Documentation](#)
+
+---
+
+## 🤖 AI & Intelligent Systems Suite
+
+<details>
+<summary><b>📂 Click to expand — Full AI Project Catalog</b></summary>
+
+<br/>
+
+| Project | Description | Link |
+|---|---|---|
+| 🧠 **Jarvis AI Diagnostic Core v3.0** | Multi-layer diagnostic engine with real-time monitoring & intelligent error resolution | [→ Repo](https://github.com/JD-Coder0129/ai_diagnostics_core.git) |
+| 🤖 **Jarvis AI Core v1.0** | Foundation framework for AI-powered automation with plugin architecture | [→ Repo](https://github.com/JD-Coder0129/Jarvis_AI_Core_v1.git) |
+| 🔌 **AI Assistant Plugin System** | Dynamic, hot-reloadable plugin architecture for modular AI functionality | [→ Repo](https://github.com/JD-Coder0129/AI-Assistant-Plugin-System.git) |
+| 📅 **AI Task Scheduler** | Intelligent priority-based task scheduler with conflict resolution | [→ Repo](https://github.com/JD-Coder0129/AI-Task-Scheduler.git) |
+| 🧬 **AI Memory System** | Long-term persistent memory framework for context-aware AI apps | [→ Repo](https://github.com/JD-Coder0129/AI-Memory-System.git) |
+| ⚙️ **AI Plugin Engine v1** | Sandboxed plugin execution with resource monitoring | [→ Repo](https://github.com/JD-Coder0129/AI-Plugin-Engine.git) |
+| 📡 **AI Sensor Data Analyzer v2.0** | Real-time multi-sensor fusion with anomaly detection & predictive analytics | [→ Repo](https://github.com/JD-Coder0129/Jarvis-AI-Sensor-Data-Analyzer-v2.0.git) |
+
+</details>
+
+---
+
+## 💼 Utilities & Business Tools
+
+<details>
+<summary><b>📂 Click to expand — Utility Projects</b></summary>
+
+<br/>
+
+| Project | Description | Link |
+|---|---|---|
+| 💰 **Expense Tracker** | Full financial management — categorization, budgeting, reporting | [→ Repo](https://github.com/JD-Coder0129/Expense-Tracker.git) |
+| 🔔 **Notification System** | Multi-channel delivery platform with priority queuing & confirmation | [→ Repo](https://github.com/JD-Coder0129/Notification-System.git) |
+
+</details>
+
+---
+
+## 💻 Technical Profile
+
+```python
+developer = {
+    "name"   : "JD (Jay)",
+    "focus"  : ["Backend APIs", "AI Systems", "Automation", "Data Engineering"],
+
+    "languages": {
+        "primary"  : ["Python"],
+        "familiar" : ["JavaScript", "SQL"]
+    },
+
+    "frameworks": ["FastAPI", "Pydantic", "Uvicorn", "Requests"],
+
+    "databases": ["SQLite", "JSON Storage"],
+
+    "api_experience": {
+        "crypto"  : ["CoinGecko"],
+        "weather" : ["OpenWeatherMap"],
+        "news"    : ["NewsAPI"],
+        "quotes"  : ["Quotable", "ZenQuotes"],
+        "dev"     : ["GitHub API"]
+    },
+
+    "architecture_patterns": [
+        "REST API Design",
+        "Modular / Plugin-based Architecture",
+        "Separation of Concerns",
+        "Config-Driven Development",
+        "Error-First Design"
+    ],
+
+    "currently_learning": [
+        "FastAPI Advanced Patterns",
+        "Microservices Architecture",
+        "Cloud Deployment (Railway / Render)",
+        "Docker & Containerization",
+        "Real-time Data Streaming"
+    ]
+}
+```
 
 ---
 
@@ -276,7 +186,7 @@ developer_profile = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JD-Coder0129&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JD-Coder0129&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JD-Coder0129&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
@@ -286,61 +196,58 @@ developer_profile = {
 
 ---
 
-## 🎯 Development Focus
+## 🏗️ My Engineering Philosophy
 
-### Current Projects
-- 🔨 Expanding API integration capabilities
-- 🧠 Enhancing AI system intelligence
-- 📊 Building data visualization tools
-- 🌐 Developing web-based dashboards
-
-### Learning Goals
-- Advanced API authentication patterns
-- Microservices architecture
-- Cloud deployment strategies
-- Real-time data streaming
-
-### Future Roadmap
-- 💰 Cryptocurrency tracking systems
-- 📈 Financial analytics platforms
-- 🤖 Advanced AI chatbot frameworks
-- 🌍 Multi-language support
+| Principle | How I Apply It |
+|---|---|
+| 🎯 **Modular First** | Every project is built as independent, reusable components |
+| 🛡️ **Validate Everything** | No data enters my system without passing strict validation |
+| 💥 **Fail Gracefully** | Every endpoint, every function — wrapped with error handling |
+| 📖 **Document Obsessively** | README, docstrings, Swagger — documentation is part of the code |
+| 🔒 **Security by Default** | API keys in env vars, input sanitized, safe error messages |
 
 ---
 
-## 💡 Project Philosophy
+## 📈 Portfolio At a Glance
 
-> *"Good code is not just about making things work—it's about making things work well, making them maintainable, and making them a pleasure to use."*
+<div align="center">
 
-### My Approach
+| 🤖 AI Projects | 🌐 APIs Integrated | 📦 Modules Built | 🏆 Featured | 🆕 Latest |
+|:---:|:---:|:---:|:---:|:---:|
+| **8+** | **6+** | **15+** | **3** | **Crypto API** |
 
-**1. User-Centric Design**
-- Clear, intuitive interfaces
-- Helpful error messages
-- Comprehensive documentation
-
-**2. Code Quality**
-- Clean, readable code
-- Proper naming conventions
-- Consistent style
-
-**3. Robust Engineering**
-- Extensive error handling
-- Input validation
-- Edge case coverage
-
-**4. Continuous Improvement**
-- Regular refactoring
-- Performance optimization
-- Feature enhancement
+</div>
 
 ---
 
-## 🛠️ Tech Stack Overview
+## 🔥 Recent Activity
+
+- 🆕 **[NEW]** Shipped **Crypto Price API** — FastAPI + SQLite backend with full CRUD & Pydantic validation
+- 🚀 Released **Jarvis API Explorer** with 3-API simultaneous integration
+- 📊 Built AI-powered automated report generation system
+- 🛠️ Refactored **AI API Fusion System** with improved error resilience
+- 📖 Standardized documentation format across all repositories
+
+---
+
+## 🎯 What's Being Built Next
+
+- 💹 **Crypto Price History Tracker** — time-series storage with chart-ready data
+- 🌐 **Live CoinGecko Sync** — auto-refresh prices from real market data
+- 🐳 **Docker deployments** for all API projects
+- ☁️ **Cloud hosting** on Railway / Render
+- 🔑 **API key auth layer** — secure API access control
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -351,7 +258,7 @@ developer_profile = {
 
 ---
 
-## 📫 Connect & Collaborate
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -361,86 +268,24 @@ developer_profile = {
 
 </div>
 
-### 🤝 Open to Collaboration
+### 🤝 Open to
 
-I'm always interested in:
-- 💼 **Freelance Projects** - API integration, automation, AI systems
-- 🎓 **Learning Together** - Code reviews, pair programming
-- 🚀 **Open Source** - Contributing to meaningful projects
-- 💡 **Innovation** - Building cutting-edge solutions
-
-### ⭐ Support My Work
-
-If you find my projects helpful:
-- ⭐ Star the repositories you like
-- 🍴 Fork and contribute improvements
-- 📢 Share with others who might benefit
-- 💬 Provide feedback and suggestions
-
----
-
-## 📝 Featured Documentation
-
-All projects include:
-- ✅ Comprehensive README files
-- ✅ Architecture diagrams
-- ✅ Code examples and demos
-- ✅ Troubleshooting guides
-- ✅ API documentation
-- ✅ Setup instructions
-
----
-
-## 🏆 Achievements
-
-- 🎯 **8+ Production-Ready Projects** across AI and API domains
-- 🌟 **Modular Architecture** implemented in all major projects
-- 📊 **5+ API Integrations** with major service providers
-- 🔧 **15+ Reusable Modules** for common functionalities
-- 📖 **Professional Documentation** for every project
-- 🛡️ **Security Best Practices** in all implementations
-
----
-
-## 💭 Philosophy
-
-<div align="center">
-
-### *"Code is poetry written for machines but meant to be read by humans."*
-
-**My mission:** Create software that solves real problems, follows best practices, and inspires others to build better.
-
-</div>
-
----
-
-## 🔄 Activity Feed
-
-### Recent Updates
-- ✨ Released **Jarvis API Explorer** with multi-API integration
-- 🚀 Enhanced **AI API Fusion System** with crypto support
-- 📊 Added intelligent reporting to API projects
-- 🛠️ Improved error handling across all modules
-- 📖 Created comprehensive documentation standards
+- 💼 **Freelance** — API integration, automation, backend systems
+- 🎓 **Learning Together** — Code reviews, pair programming, mentorship
+- 🚀 **Open Source** — Contributions to meaningful projects
+- 💡 **Collabs** — Let's build something the world hasn't seen yet
 
 ---
 
 <div align="center">
 
-## 🌟 Thank You for Visiting!
-
-**Let's build something amazing together** 🚀
+### ⭐ If any project helped you — a star means everything. Thank you! ⭐
 
 ---
 
-[![GitHub Stats](https://img.shields.io/github/followers/JD-Coder0129?label=Follow&style=social)](https://github.com/JD-Coder0129)
-[![GitHub Stars](https://img.shields.io/github/stars/JD-Coder0129?style=social)](https://github.com/JD-Coder0129?tab=repositories)
+*Made with 🔥 and way too much ☕ by **JD-Coder0129***  
+*Last Updated: April 2026*
 
-[⬆ Back to Top](#-jays-development-portfolio)
-
----
-
-*Last Updated: November 2025*  
-*Made with ❤️ and ☕ by JD-Coder0129*
+[⬆ Back to Top](#)
 
 </div>
