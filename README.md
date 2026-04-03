@@ -59,7 +59,7 @@ Price     → Must be positive float (> 0)
 
 **🔮 Coming Soon:** Price history · Live CoinGecko sync · Auth layer · Docker support
 
-🔗 [View Repository](https://github.com/JD-Coder0129/crypto-api) | [API Docs](#)
+🔗 [View Repository](https://github.com/JD-Coder0129/Smart-Crypto-API.git) | [API Docs](#)
 
 ---
 
